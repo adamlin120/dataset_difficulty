@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="jinja2" />
+            <item index="1" class="java.lang.String" itemvalue="shyaml" />
+            <item index="2" class="java.lang.String" itemvalue="alexa_prize_cobot_sdk-4.0.2-py2.py3-none-any.whl" />
+            <item index="3" class="java.lang.String" itemvalue="alexa_prize_cobot_sdk-4.0.5-py2.py3-none-any.whl" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="pytz" />
+            <item index="6" class="java.lang.String" itemvalue="MultiWOZ-Evaluation" />
+            <item index="7" class="java.lang.String" itemvalue="wandb" />
+            <item index="8" class="java.lang.String" itemvalue="textstat" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
